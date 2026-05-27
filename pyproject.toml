@@ -9,7 +9,7 @@ description = "Type-safe environment variable validation. One decorator, fails f
 readme = "README.md"
 requires-python = ">=3.10"
 license = { text = "MIT" }
-authors = [{ name = "Bhupendra Gurjar", email = "bgurjar05.bg@gmail.com" }]
+authors = [{ name = "Bhupendra Tale", email = "bgurjar05.bg@gmail.com" }]
 keywords = ["developer-tools", "debugging", "python", "performance", "envguard"]
 classifiers = [
     "Development Status :: 4 - Beta",
